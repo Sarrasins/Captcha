@@ -36,9 +36,9 @@ body {
   }
   
   #gameCanvas {
-    max-height: 95%;   /* Ajuster la hauteur selon tes besoins */
+    max-height: 95%;   
     padding: 2px;
-    max-width: 95%; /* Garantir que le canvas prend tout l'espace disponible sans déborder */
+    max-width: 95%; 
   }
   #captcha-container{
     width: 270px;
